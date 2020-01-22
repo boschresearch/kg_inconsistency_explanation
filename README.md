@@ -1,2 +1,2 @@
 # kg_inconsistency_explanation
-Explanations for Inconsistency in Large-Scale Knowledge Graphs
+Experiment for the paper "Fast Computation of Explanations for Inconsistency in Large-Scale Knowledge Graphs"
