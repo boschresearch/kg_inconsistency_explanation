@@ -9,17 +9,15 @@ above paper when reporting, reproducing or extending the results.
 ## Purpose of the project
 
 This software is a research prototype, solely developed for and published as
-part of the publication [cited above | paper reference]. It will neither be
-maintained nor monitored in any way.
+part of the above publication. 
 
-## Requirements, how to build, test, install, use, etc.
+## Release Note
 
-Some technical information...
+The code is under a careful clearing process and it will be released when the process is finished.
 
 ## License
 
 PROJECT-NAME is open-sourced under the AGPL-3.0 license. See the
 [LICENSE](LICENSE) file for details.
 
-For a list of other open source components included in PROJECT-NAME, see the
-file [3rd-party-licenses.txt](3rd-party-licenses.txt).
+
